@@ -30,3 +30,9 @@ Bootable OC EFI that Functional with macOS Sequoia and Tahoe
 ### Config-Tahoe-FileVault
 * Disable ***UEFI-APFS-EnableJumpStart*** for FileVault support
 * Enable ***apfs_aligned.efi*** in UEFI-Drivers for FileVault support
+
+# Credits
+* [Apple](https://apple.com) for macOS
+* [Acidanthera](https://github.com/acidanthera) for OpenCore
+* [goodbest](https://github.com/goodbest/Polaris22Fixup) and [Baio1977](https://github.com/Baio1977/Polaris22Fixup) for continuous support on VegaM GPU fixups
+* All other kext driver developers
