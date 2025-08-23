@@ -11,8 +11,8 @@ Bootable OC EFI that Functional with macOS Sequoia and Tahoe
 1. Rename Config-Tahoe-Installer.plist to Config.plist
 2. Run macOS installer until finish and make sure FileVault is disabled
 3. After installing, Rename Config-Tahoe.plist to Config.plist
-4. using tools like OCAT to generate your SMBIOS
-5. if FileVault is accidentally enabled, switch to Config-Tahoe-FileVault.plist, disable FileVault, and switch it back
+4. Using tools like OCAT to generate your SMBIOS
+5. If FileVault is accidentally enabled, switch to Config-Tahoe-FileVault.plist, disable FileVault, and switch it back
 6. Using OCLP-Mod for audio fixing
 
 # Issues
